@@ -1,0 +1,8 @@
+com\stradtkt\springdemo\config\DemoAppConfig.class
+com\stradtkt\springdemo\config\MySpringMvcDispatcherServletInitializer.class
+com\stradtkt\springdemo\dao\CustomerDAO.class
+com\stradtkt\springdemo\rest\CustomerRestController.class
+com\stradtkt\springdemo\entity\Customer.class
+com\stradtkt\springdemo\dao\CustomerDAOImpl.class
+com\stradtkt\springdemo\service\CustomerServiceImpl.class
+com\stradtkt\springdemo\service\CustomerService.class
